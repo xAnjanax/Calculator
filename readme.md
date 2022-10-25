@@ -8,4 +8,4 @@ https://xanjanax.github.io/Calculator/
 
 ## Preview 
 
-<img src="Screenshot 2022-10-25 225501_Calculator(1).png"> 
+<img src="Screenshot_Calculator(1).png"> 
